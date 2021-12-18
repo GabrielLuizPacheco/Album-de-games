@@ -1,0 +1,123 @@
+body{
+    background-color: #1C1C1C;
+    font-family: Arial;
+}
+h2{
+    text-align: center;
+    font-family: Arial;
+}
+#site{
+    max-width: 1000px;
+    max-height: 2000px;
+    margin: 0 auto;
+}
+#header{
+   
+    background-color:#191970;
+    margin: 0 auto;
+    width: 1000px;
+    height: 50px;
+    line-height: 50px;
+    padding: 10 0 0 10;
+    color: white; 
+}
+#PS4cima{ 
+    display: flex;
+}
+#PS4baixo{
+    display: flex;
+}  
+.GOW, .TOU, .U4{
+    margin: 3px 3px 3px 3px;
+    width: 315px;
+    height: 200px; 
+    border: 5px solid #1E90FF
+}
+
+.SOTC, .BB, .SM{
+
+    margin: 3px 3px 3px 3px;
+    width: 315px;
+    height: 200px; 
+    border: 5px solid #1E90FF
+}
+
+#PS4p{
+    color:#1E90FF
+}
+
+#XBOXp{
+    color:#32CD32;
+}
+
+#XBOXcima{ 
+    display: flex;
+}
+#XBOXbaixo{
+    display: flex;
+}
+
+.Gears, .HALO, .F4{
+    margin: 3px 3px 3px 3px;
+    width: 315px;
+    height: 200px; 
+    border: 5px solid #32CD32    
+}
+
+.ORI, .RYSE, .DR{
+    margin: 3px 3px 3px 3px;
+    width: 315px;
+    height: 200px; 
+    border: 5px solid #32CD32
+}
+
+#MULTp{
+    color:#FF8C00
+}
+
+#MULTcima{ 
+    display: flex;
+}
+
+#MULTbaixo{
+    display: flex;
+}
+
+.RED2, .MK11, .RE2{
+    margin: 3px 3px 3px 3px;
+    width: 315px;
+    height: 200px; 
+    border: 5px solid #FF8C00  
+}
+
+.DOOM, .TW3, .DS3{
+    margin: 3px 3px 3px 3px;
+    width: 315px;
+    height: 200px; 
+    border: 5px solid #FF8C00  
+}
+
+#TRAILERS{
+    color: white;
+}
+
+#musicA{
+    color:red;
+    text-align:left;
+}
+
+#lista{
+    color: white;
+}
+
+#footer{
+    margin: 0 auto;
+    position: absolute; 
+    width: 1000px;
+    height: 50px;
+    background-color: #191970;
+}
+#Gabriel{
+    color: white;
+}
+    
